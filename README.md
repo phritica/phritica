@@ -13,7 +13,7 @@
 
 ### 言語・フレームワーク
 
-- HTML / CSS / JavaScript: 黒歴史みたいなサイト作ろうとしたのが黒歴史。
+- HTML / CSS / JavaScript: 学生時代、黒歴史みたいなサイト作りたくて途中まで作ったのが黒歴史。
 - TypeScript: まだまだお勉強中
 - Vue.js: いつかVue使ったOSSに参加したいなぁなんてね！
 - PHP: 言うことが無い
